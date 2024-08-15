@@ -39,3 +39,7 @@
 <p>
     在任務2的練習後，我們想要將 Padding Oracle Attack 可以直接用程式來處理。因此可以根據 Padding 的方式來稍微的修改程式碼就好了～
 </p>
+
+
+## 參考資料
+[Oracle Padding Attack](https://medium.com/@masjadaan/oracle-padding-attack-a61369993c86) 
