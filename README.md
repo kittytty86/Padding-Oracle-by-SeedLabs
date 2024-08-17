@@ -35,6 +35,10 @@
 | 2-2  | ... 39 cc                    | ... 3b ce (3b是算出來的) | ... 02 02                      |
 | 2-3  | ... 38 cd (配合新的假明文)                       | ... 3b ce                | ... 03 03 03                   |
 
+<p>
+    因此在Task2中，我嘗試實作了自動化的部分（為了讓Task3方便進行），而其中part1只做了plaintext2的部分，而part2則將全部的plaintext完成，藉此來確認我的想法有沒有錯誤。
+</P>
+
 ## Task 3: Padding Oracle Attack (Level 2)
 <p>
     在任務2的練習後，我們想要將 Padding Oracle Attack 可以直接用程式來處理。因此可以根據 Padding 的方式來稍微的修改程式碼就好了～
